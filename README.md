@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Welcome to the AI Mental Fitness Tracker! This open-source project aims to help individuals monitor their mental well-being by accepting inputs related to various factors such as depression, anxiety, stress, and more. Based on the input provided, the AI will suggest recommendations for the top three factors that have the most significant impact on the user's mental health. Additionally, it visually represents the contribution of each factor through an interactive pie chart.
+Welcome to the AI Mental Fitness Tracker! This project aims to help individuals monitor their mental well-being by accepting inputs related to various factors such as depression, anxiety, stress, and more. Based on the input provided, the AI will suggest recommendations for the top three factors that have the most significant impact on the user's mental health. Additionally, it visually represents the contribution of each factor through an interactive pie chart.
 
 ## Table of Contents
 
