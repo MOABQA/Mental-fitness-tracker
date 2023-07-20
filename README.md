@@ -60,6 +60,7 @@ Remember that the recommendations provided are not a substitute for professional
 
 The AI Mental Fitness Tracker will also display a colorful pie chart showing the contribution of each mental health factor to your overall well-being. This visualization will help you understand which factors have the most significant impact on your mental fitness.
 
----
+---<img width="960" alt="Screenshot 2023-07-20 002633" src="https://github.com/helloworldnumber1/mental-fitness-tracker/assets/63502668/42cda588-0998-415d-8fa5-18d2e8c7b52e">
 
-We hope the AI Mental Fitness Tracker proves helpful in monitoring and enhancing your mental well-being.🌟 If you have any questions or feedback, please don't hesitate to reach out. Happy tracking! 😊
+
+I hope the AI Mental Fitness Tracker proves helpful in monitoring and enhancing your mental well-being.🌟 If you have any questions or feedback, please don't hesitate to reach out. Happy tracking! 😊
