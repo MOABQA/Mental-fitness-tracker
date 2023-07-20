@@ -48,7 +48,7 @@ The AI Mental Fitness Tracker accepts input on the following factors:
 - 💊🚬 Drug Usage
 - 🍺🍷 Alcohol Consumption
 
-The AI gives the total mental health of a user as percentage.
+The AI gives the total mental health of a user as a percentage.
 
 ## Recommendations
 
