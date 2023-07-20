@@ -14,8 +14,6 @@ Welcome to the AI Mental Fitness Tracker! This open-source project aims to help 
 - [Input Factors](#input-factors)
 - [Recommendations](#recommendations)
 - [Visualization](#visualization)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
@@ -44,15 +42,13 @@ The AI Mental Fitness Tracker accepts input on the following factors:
 
 - 😔 Depression
 - 😨 Anxiety
-- 😓 Stress
-- 😴 Sleep Quality
-- 🏋️‍♂️ Exercise Routine
-- 🍎 Nutrition
-- 🧘‍♀️ Mindfulness Practice
-- 📅 Social Interaction
-- 🎨 Creative Expression
+- 🌀👁️‍🗨️ Schizophrenia
+- 🎢😔 Bipolar disorder
+- 🍽️💔 Eating disorder
+- 💊🚬 Drug Usage
+- 🍺🍷 Alcohol Consumption
 
-For each factor, provide a rating on a scale of 1 to 5, with 1 being "Very Low" and 5 being "Very High."
+The AI gives the total mental health of a user as percentage.
 
 ## Recommendations
 
@@ -64,14 +60,6 @@ Remember that the recommendations provided are not a substitute for professional
 
 The AI Mental Fitness Tracker will also display a colorful pie chart showing the contribution of each mental health factor to your overall well-being. This visualization will help you understand which factors have the most significant impact on your mental fitness.
 
-## Contributing
-
-We welcome contributions from the community to improve the AI Mental Fitness Tracker. If you have any ideas, bug fixes, or new features to propose, please open an issue or submit a pull request on the GitHub repository.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
-
 ---
 
-We hope the AI Mental Fitness Tracker proves helpful in monitoring and enhancing your mental well-being. Let's work together to promote mental health awareness and self-care! 🌟 If you have any questions or feedback, please don't hesitate to reach out. Happy tracking! 😊
+We hope the AI Mental Fitness Tracker proves helpful in monitoring and enhancing your mental well-being.🌟 If you have any questions or feedback, please don't hesitate to reach out. Happy tracking! 😊
