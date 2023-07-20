@@ -1,7 +1,5 @@
-# mental-fitness-tracker
-# AI Mental Fitness Tracker 🧠💪
+# AI Mental Fitness Tracker (AICTE)🧠💪
 
-![Mental Fitness Tracker](https://example.com/path/to/image.png)
 
 ## Introduction
 
