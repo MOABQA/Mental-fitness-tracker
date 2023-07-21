@@ -21,7 +21,7 @@ To get started with the AI Mental Fitness Tracker, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/your-username/mental-fitness-tracker.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
-3. Run the application: `python mental_fitness_tracker.py`
+3. Run the application: `Mental_Fitness_Tracker.ipynb`
 
 ## Features
 
