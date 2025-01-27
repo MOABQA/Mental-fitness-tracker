@@ -9,7 +9,6 @@ Welcome to the AI Mental Fitness Tracker! This project aims to help individuals 
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [How to Use](#how-to-use)
 - [Input Factors](#input-factors)
 - [Recommendations](#recommendations)
 - [Visualization](#visualization)
@@ -20,13 +19,6 @@ Welcome to the AI Mental Fitness Tracker! This project aims to help individuals 
 - Track mental health factors like depression, anxiety, stress, and more.
 - Receive personalized recommendations for the three most influential factors on your mental health.
 - Visualize the contribution of each factor through an interactive pie chart.
-
-## How to Use
-
-1. Run the application using the steps mentioned in the "Getting Started" section.
-2. Follow the prompts to input your level of each mental health factor.
-3. The AI will analyze your inputs and display the top three factors responsible for your mental well-being.
-4. Review the recommendations provided to improve your mental fitness.
 
 ## Input Factors
 
